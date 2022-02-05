@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clayanimals
-- 👀 I make soundtrack-style music, design characters, & write CYOA games!
-- 🌱 Now it's time to learn how to code so I can bring all my skills together.
-- 💞️ I’m looking to collaborate on small text-based games with simple music & graphics :)
+I make soundtrack-style music, design characters, & write CYOA games!
+I'm learning how to code so I can bring all my skills together.
+Lmk if you want to collaborate on small text-based games with simple music & graphics :)
 
 
 <!---
